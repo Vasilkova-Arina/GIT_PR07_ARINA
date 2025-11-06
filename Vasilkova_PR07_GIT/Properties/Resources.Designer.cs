@@ -69,5 +69,15 @@ namespace Vasilkova_PR07_GIT.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_авторизация_501 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-авторизация-501", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
