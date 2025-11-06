@@ -16,5 +16,11 @@ namespace Vasilkova_PR07_GIT
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 admin = new Form2();
+            admin.ShowDialog();
+        }
     }
 }
